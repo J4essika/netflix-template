@@ -24,7 +24,6 @@ nav,ul{
     background: linear-gradient(to right,black,red);
     padding:20px;
     
-    
 }
 
 
@@ -52,10 +51,34 @@ div{
     color:var(--main-color3);
     
     
+    
 }
-
-
-h2{
+h1{
     font-family: "monster";
+    padding: 10px;
+ 
 }
 
+
+
+header{
+    background-color: var(---main-color2);
+    padding: 10px;
+    color: var(--main-color3);
+    text-align: center;
+    font-family: "monster";
+    font-size: large;
+}
+
+p{
+    font-size: larger;
+    font-family:Arial, Helvetica, sans-serif
+    
+    
+}
+
+img{
+    border-radius: 20px;
+    padding: 20px;
+    padding-top: 10px;
+}
