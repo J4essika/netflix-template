@@ -4,9 +4,26 @@
     box-sizing:border-box;
 }
 
+
+:root{
+ --main-color:red;
+ ---main-color2:black;
+ --main-color3:aliceblue;
+ 
+}
+
+@font-face {
+    font-family: "monster";
+    src: url(gloomy_things/Gloomy\ Things.ttf)
+    format("truetype");
+    font-weight: 800;
+    font-style: normal;
+}
+
 nav,ul{
     background: linear-gradient(to right,black,red);
     padding:20px;
+    
     
 }
 
@@ -14,11 +31,11 @@ nav,ul{
 li,a{
     text-decoration: none;
     list-style-type: none;
-    color:aliceblue;
+    color:var(--main-color3);
     font-weight: bolder;
     font-size: larger;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    font-family: "monster";
 }
 
 a:hover{
@@ -29,6 +46,16 @@ a:hover{
 }
 
 
+div{
+    background-color:var(---main-color2);
+    padding: 100px;
+    color:var(--main-color3);
+    
+    
+}
 
 
+h2{
+    font-family: "monster";
+}
 
