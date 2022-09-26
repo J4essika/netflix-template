@@ -21,8 +21,8 @@
 }
 
 nav,ul{
-    background: linear-gradient(to right,black,red);
-    padding:20px;
+    background: linear-gradient(to bottom,black,red);
+    padding:10px;
     
 }
 
