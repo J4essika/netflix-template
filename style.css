@@ -23,8 +23,11 @@
 nav,ul{
     background: linear-gradient(to right,black,red);
     padding:10px;
-    
+    word-spacing: 10px;
+    text-align: center;
 }
+
+
 
 
 li,a{
@@ -35,6 +38,8 @@ li,a{
     font-size: larger;
     text-align: center;
     font-family: "monster";
+    display: inline;
+    
 }
 
 a:hover{
