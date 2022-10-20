@@ -40,13 +40,15 @@ li,a{
     font-family: "monster";
     display: inline;
     
+
+    
 }
 
 a:hover{
     color:rgb(248, 199, 75);
     box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.845);
     border-radius:5px;
-   
+   text-decoration: underline;
 }
 
 
