@@ -115,3 +115,16 @@ img{
     
 }
 
+details{
+    color:red;
+    font-family:"Monster";
+    font-size: larger;
+}
+
+details:hover{
+    color:rgb(248, 199, 75);;
+}
+
+.color{
+    color:white;
+}
