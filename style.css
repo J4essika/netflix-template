@@ -87,23 +87,12 @@ p{
     padding: 50px;
     line-height: 26px;
     text-align: left;
-
-
-}
-
-img{
-
-    border-radius: 20px;
-    padding: 20px;
-    padding-top: 10px;
 }
 
 .video{
     margin: 0px -20px 30px -20px;
     padding: 100px;
     position: relative;
-    
-
 }
 
 .video > iframe{
@@ -127,4 +116,10 @@ details:hover{
 
 .color{
     color:white;
+
+} 
+
+footer{
+    background:linear-gradient(to right,red,black);
+    text-align: center;
 }
