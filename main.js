@@ -1,4 +1,5 @@
-window.alert("Olá,seja bem vindo(a) ao nosso site.");
+//window.alert("Olá,seja bem vindo(a) ao nosso site.");//
+
 
 
 

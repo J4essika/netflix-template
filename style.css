@@ -68,6 +68,7 @@ h1{
 
 
 header{
+   
     background-color: var(---main-color2);
     padding: 10px;
     color: var(--main-color3);
@@ -123,3 +124,5 @@ footer{
     background:linear-gradient(to right,red,black);
     text-align: center;
 }
+
+
